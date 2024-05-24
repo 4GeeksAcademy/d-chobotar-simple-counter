@@ -1,7 +1,7 @@
 import React from 'react';
 import CardLayout from './CardLayout';
 
-function SomeComponents(){
+function SecondsCounter(){
     return (
         <div className="container-fluid vh-100" data-bs-theme="dark">
             <CardLayout />     
@@ -9,4 +9,4 @@ function SomeComponents(){
     );
 }
 
-export default SomeComponents;
+export default SecondsCounter;

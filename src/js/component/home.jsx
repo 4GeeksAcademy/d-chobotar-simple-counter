@@ -1,10 +1,10 @@
 import React from "react";
 
-import SomeComponents from "./SomeComponent";
+import SecondsCounter from "./SecondsCounter";
 
 const Home = () => {
 	return (
-		<SomeComponents/>
+		<SecondsCounter/>
 	);
 };
 
